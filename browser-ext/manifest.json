@@ -1,0 +1,11 @@
+{
+  "name": "Browser Tab Synchrony",
+  "version": "1.0",
+  "description": "Synchronises Browser Tabs",
+  "background_page": "bg.html",
+  "permissions": [
+		"tabs", 
+		"http://*/*", 
+		"https://*/*"
+  ]
+}
